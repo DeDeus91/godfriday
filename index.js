@@ -12,6 +12,6 @@ pagina.addEventListener('submit', (e) => {
       localStorage.setItem('lead', convertData);
       alert('Email cadastrado para godFriday!'); 
   }else{
-      alert('Voce nao digitou um email, tente novamente.');
+      alert('Voce nao digitou um email valido, tente novamente.');
   }
 });
