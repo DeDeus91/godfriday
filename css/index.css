@@ -15,7 +15,7 @@ html{
 }
 
 .bacground-section-one{
-  background-image: url(../src/Componentes/back1.png);
+  background-image: url(../Componentes/back1.png);
   background-attachment: local;
   background-size: cover;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@ html{
 }
 
 .bacground-section-two{
-  background-image: url(../src/Componentes/back2.png);
+  background-image: url(../Componentes/back2.png);
   background-attachment: local;
   background-size: cover;
   background-repeat: no-repeat;
